@@ -1,3 +1,8 @@
+This repository contains code associated with 
+Tao, Ran, Efstratios Gavves, and Arnold WM Smeulders. "Tracking for Half an Hour." arXiv preprint arXiv:1711.10217 (2017)
+(https://arxiv.org/abs/1711.10217)
+
+
 #
 Pytorch implementation
 - pytorch version: 0.1.12
